@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yabash-313.github.io/yabash/sitemap.xml
